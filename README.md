@@ -1,7 +1,7 @@
 # Amazon-Sales-Analysis-Dashboard
 1. Project Title / Headline
 
-💼 Amazon Sales Analytics Dashboard | Power BI Interactive Report
+Amazon Sales Analytics Dashboard | Power BI Interactive Report
 A data-driven Power BI dashboard designed to analyze and visualize Amazon’s product performance—offering insights into sales trends, product categories, and customer engagement metrics.
 
 2. Short Description / Purpose
@@ -11,11 +11,11 @@ The Amazon Sales Analysis Dashboard provides a comprehensive view of key busines
 3. Tech Stack
 
 This dashboard was built using the following tools and technologies:
-• 📊 Power BI Desktop – For designing, visualizing, and publishing reports.
-• 🔄 Power Query Editor – For data transformation, cleaning, and combining multiple data sources.
-• 🧮 DAX (Data Analysis Expressions) – Used to calculate YTD, QTD, % contribution, and dynamic measures.
-• 🗂️ Data Modeling – Established relationships between product, category, and sales data tables for interactive filtering.
-• 💾 File Format – .pbix for report development and .png for presentation/portfolio sharing.
+• Power BI Desktop – For designing, visualizing, and publishing reports.
+• Power Query Editor – For data transformation, cleaning, and combining multiple data sources.
+• DAX (Data Analysis Expressions) – Used to calculate YTD, QTD, % contribution, and dynamic measures.
+• Data Modeling – Established relationships between product, category, and sales data tables for interactive filtering.
+• File Format – .pbix for report development and .png for presentation/portfolio sharing.
 
 4. Data Source
 Source: Amazon product sales dataset (sample e-commerce data).
@@ -76,6 +76,3 @@ Strategic Planning: Enables businesses to focus marketing on high-performing cat
 6. Screenshots / Demos
 https://github.com/Mayuri-ai/Amazon-Sales-Analysis-Dashboard/blob/main/AmazonSalesAnalysis.png
 
-Customer Engagement: Identifies products with high reviews, linking satisfaction to sales.
-
-Operational Efficiency: Supports decision-making for inventory restocking and quarterly goal-setting.
